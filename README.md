@@ -1,3 +1,9 @@
+Customer Service Portal
+Customer Service Portal is an application built using React Functionalities.
+ Login – The customer can log in by entering the credentials.
+ Purchased Items – Displays the various products bought by the customer. 
+ Feedback – The customer can provide feedback on the products they purchased.
+
 Following are the steps for the deployment of case study in local machine:
 1. Install node.js from Node.js official site or from Software House
 
